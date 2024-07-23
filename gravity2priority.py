@@ -157,7 +157,7 @@ def main():
     newrow = ''
     logfile = ''
     rows = 0
-    filename = 'na_matrix.csv'
+    filename = 'docs/na_matrix.csv'
     
     item_number = 0
 

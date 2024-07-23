@@ -1,7 +1,7 @@
 import pandas as pd
 
 def main():
-    Data = pd.read_csv('krippendorf.csv') 
+    Data = pd.read_csv('docs/krippendorf.csv') 
     numbers = Data['annotation']
     total_units = int(len(numbers) / 3)
     concordant_units = 0
@@ -11,7 +11,7 @@ def main():
             concordant_units += 1
 
     percentage_observer_agreement = concordant_units / total_units
-    print(percentage_observer_agreement)
+    print('Percentage Observer Agreement: '+ str(percentage_observer_agreement))
 
 if __name__ == '__main__':
     main()
