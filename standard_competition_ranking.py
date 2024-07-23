@@ -1,7 +1,6 @@
 def standard_competition_ranking(scores):
     rankings = [0] * len(scores)
     sorted_indices = sorted(range(len(scores)), key=lambda x: scores[x], reverse=True)
-
     rank = 1
     for i in range(len(scores)):
         if i == 0:

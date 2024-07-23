@@ -1,18 +1,18 @@
-﻿,Problema,EU1,EU2,EU3,EU4,ED1,ED2,ED3,IdValutatori,Id Euristiche Violate,Mean,Standard Deviation,Median
-"PB01",La posizione dei file cancellati di recente non è accessibile direttamente ma è inserita nella voce “Impostazioni”.,1,3,2,1,0,2,2,EU4,"E2, E6, E9",1.5714,0.9035,2
-"PB09","Non è chiaro come utilizzare lo strumento “Lazo”. In particolare nelle situazioni di copia e incolla.",2,3,0,0,1,0,3,EU1-EU2-EU4,"E1, E6",1.2857,1.2778,1
-"PB15","La funzione “Zoom” ingrandisce una zona del documento permettendo di scrivere in maniera più precisa. L'icona che identifica tale funzione non è rappresentativa. ",1,2,2,0,2,3,1,EU1-EU2,"E2, E5, E6",1.5714,0.9035,2
-"PB18",Quando si utilizza lo strumento “Lazo” è possibile salvare l'elemento selezionato come sticker. Tale funzione è indicata solo con la voce “Salva” che non da però alcuna indicazione su dove la selezione verrà salvata.,3,1,3,3,3,2,3,EU1-EU3-EU4,"E1, E6",2.5714,0.7284,3
-"PB20","Il bottone “Nuova” non propone la creazione di una nuova cartella, ma apre direttamente un nuovo documento vuoto, in una posizione non definita.",2,3,4,2,3,3,3,ED3-EU4,"E3, E4, E5, E6, E8",2.8571,0.6389,3
-"PB21",“Argomento” si riferisce a una generica “Cartella”,3,3,3,3,2,2,1,ED3-EU2-EU3-EU4,"E2, E5",2.4286,0.7284,3
-"PB22","L'icona con i tre palllini di fianco a “Nuova” non da opzioni ulteriori per la suddetta funzione, ma offre funzioni di formattazione per i documenti",1,2,2,2,0,0,2,EU2,"E3, E5",1.2857,0.8806,2
-"PB23","La “Galleria” non è una galleria, è uno store di template per documenti da scaricare",3,3,1,3,1,1,2,EU1,"E2, E4",2,0.9258,2
-"PB24","“Argomento” indica una cartella, “Divisore” indica un raccoglitore di “Argomenti”, di fatto un'altro tipo di cartella.",2,2,3,4,3,1,3,ED3-EU3,"E2, E3, E5, E6, E8",2.5714,0.9035,3
-"PB25",Le opzioni per la condivisione del documento non sono accessibili direttamente dalla barra degli strumenti ma sono inserite in una voce a parte.,1,2,2,1,0,3,0,EU4,"E2, E6",1.2857,1.0302,1
-"PB26",L'icona “Pagine” usa l'icona standard usata per le funzioni di “Incolla” o “Duplica”,4,3,4,4,3,1,3,EU3-EU4,"E2, E3, E4, E6",3.1428,1.069,3
-"PB27",La funzione serve per creare delle zone interattive che si possono coprire e scoprire con un tocco.,3,2,3,0,2,1,0,ED3-EU4,"E2, E5, E6",1.5714,1.178,2
-"PB28",Il bottone per l'aggiunta di immagini permette in realtà di aggiungere anche altri elementi visivi (come sticker e gif) ma dall'icona ciò non è chiaro.,1,3,1,2,2,1,1,EU3-EU4,"E2, E5, E7",1.5714,0.7284,1
-"PB29","Una volta creato un nuovo documento vengono proposte sullo schermo delle impostazioni di modifica dello stesso (carta a quadretti, righe, possibilità di importare o scansionare un documento). Se si seleziona una di tali opzioni le altre poi scompaiono e per modificare il documento è necessario aprire le impostazioni.",0,2,1,2,3,3,2,ED1,"E3, E7, E9",1.8571,0.9897,2
-"PB30",La ricerca di una parola restituisce una serie di documenti ma non propone un'anteprima della posizione di tale parola all'interno dei suddetti.,2,3,0,1,3,3,2,ED1,"E1, E6, E7, E8",2,1.069,2
-"PB31",La barra degli strumenti non può essere fissata e può quindi essere spostata involontariamente mentre si sta modificando il documento.,2,0,0,0,3,2,3,ED1-ED2,"E3, E8",1.4286,1.2936,2
-"PB32",Non è possibile ridimensionare gli elementi “pizzicando” con le dita; bisogna usare i pulsanti appositi.,0,0,0,0,0,0,2,ED3-ED2,E5,0.5714,1.1338,0
+﻿,Problem,EU1,EU2,EU3,EU4,ED1,ED2,ED3,Evaluator Ids,Violated Heuristics Ids,Mean,Standard Deviation,Median
+"PB01","The location of recently deleted files is not directly accessible but is placed under the 'Settings' option",1,3,2,1,0,2,2,EU4,"E2, E6, E9",1.5714,0.9035,2
+"PB09","It is unclear how to use the 'Lasso' tool, especially in copy and paste situations",2,3,0,0,1,0,3,EU1-EU2-EU4,"E1, E6",1.2857,1.2778,1
+"PB15","The 'Zoom' function enlarges an area of the document allowing more precise writing. The icon representing this function is not representative",1,2,2,0,2,3,1,EU1-EU2,"E2, E5, E6",1.5714,0.9035,2
+"PB18","When using the 'Lasso' tool, it is possible to save the selected item as a sticker. This function is indicated only by the 'Save' option, which does not provide any indication of where the selection will be saved",3,1,3,3,3,2,3,EU1-EU3-EU4,"E1, E6",2.5714,0.7284,3
+"PB20","The 'New' button does not propose creating a new folder but directly opens a new blank document in an undefined position",2,3,4,2,3,3,3,ED3-EU4,"E3, E4, E5, E6, E8",2.8571,0.6389,3
+"PB21","'Topic' refers to a generic 'Folder'",3,3,3,3,2,2,1,ED3-EU2-EU3-EU4,"E2, E5",2.4286,0.7284,3
+"PB22","The icon with the three dots next to 'New' does not offer additional options for this function but provides formatting functions for documents",1,2,2,2,0,0,2,EU2,"E3, E5",1.2857,0.8806,2
+"PB23","The 'Gallery' is not a gallery; it is a store for document templates to download",3,3,1,3,1,1,2,EU1,"E2, E4",2,0.9258,2
+"PB24","'Topic' indicates a folder, 'Divider' indicates a binder of 'Topics', effectively another type of folder",2,2,3,4,3,1,3,ED3-EU3,"E2, E3, E5, E6, E8",2.5714,0.9035,3
+"PB25","Document sharing options are not directly accessible from the toolbar but are placed under a separate option",1,2,2,1,0,3,0,EU4,"E2, E6",1.2857,1.0302,1
+"PB26","The 'Pages' icon uses the standard icon used for 'Paste' or 'Duplicate' functions",4,3,4,4,3,1,3,EU3-EU4,"E2, E3, E4, E6",3.1428,1.069,3
+"PB27","The function is used to create interactive areas that can be covered and uncovered with a touch",3,2,3,0,2,1,0,ED3-EU4,"E2, E5, E6",1.5714,1.178,2
+"PB28","The button for adding images actually allows adding other visual elements (such as stickers and gifs), but this is not clear from the icon",1,3,1,2,2,1,1,EU3-EU4,"E2, E5, E7",1.5714,0.7284,1
+"PB29","Once a new document is created, options for modifying it (grid paper, lines, ability to import or scan a document) are shown on the screen. If one of these options is selected, the others disappear and to modify the document, it is necessary to open the settings",0,2,1,2,3,3,2,ED1,"E3, E7, E9",1.8571,0.9897,2
+"PB30","Searching for a word returns a list of documents but does not provide a preview of the word's location within these documents",2,3,0,1,3,3,2,ED1,"E1, E6, E7, E8",2,1.069,2
+"PB31","The toolbar cannot be pinned and can thus be accidentally moved while editing the document",2,0,0,0,3,2,3,ED1-ED2,"E3, E8",1.4286,1.2936,2
+"PB32","It is not possible to resize elements by 'pinching' with fingers; one must use the specific buttons",0,0,0,0,0,0,2,ED3-ED2,E5,0.5714,1.1338,0
